@@ -41,5 +41,7 @@ If you're not a student, you can still use this repository to start a new Shopif
 
 
 ## Comands
-Tailwind: npx tailwindcss -i ./src/tailwind.css -o ./assets/application.css --watch
-Shopify: shopify theme dev
+### Tailwind:
+npx tailwindcss -i ./src/tailwind.css -o ./assets/application.css --watch
+### Shopify:
+shopify theme dev
