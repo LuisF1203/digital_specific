@@ -1,7 +1,8 @@
 {
-  "current": "main",
+  "current": {
+  },
   "presets": {
-    "main": { 
+    "main": {
     }
   }
 }

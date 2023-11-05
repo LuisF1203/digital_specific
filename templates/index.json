@@ -1,38 +1,97 @@
 {
-    "sections": {
-        "banner-collection": {
-            "type": "banner-collection",
-            "settings": {
-                "banner_collection": "all"
-            }
+  "sections": {
+    "banner-collection": {
+      "type": "banner-collection",
+      "blocks": {
+        "732c0f56-2418-4e0f-bbbd-bb7bd8293b3e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/art1.jpg",
+            "title": ""
+          }
         },
-        "affiliates-collection": {
-            "type": "affiliates-collection",
-            "settings": {
-                "affiliates-collection": "all"
-            }
+        "e72b9ecf-23c3-413a-9280-c3b376f93784": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/art2.jpg",
+            "title": ""
+          }
         },
-        "main-product": {
-            "type": "main-product",
-            "settings": {
-                "main-product": "all"
-            }
-        },
-        "featured-collection": {
-            "type": "featured-collection",
-            "settings": {
-                "featured_collection": "all"
-            }
-        },
-        "template-footer": {
-            "type": "template-footer",
-            "settings": {
-                "template-footer": "all"
-            }
+        "622fc613-c50f-4f57-9b91-940d244232f0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/art3.jpg",
+            "title": ""
+          }
         }
-
+      },
+      "block_order": [
+        "732c0f56-2418-4e0f-bbbd-bb7bd8293b3e",
+        "e72b9ecf-23c3-413a-9280-c3b376f93784",
+        "622fc613-c50f-4f57-9b91-940d244232f0"
+      ],
+      "settings": {
+        "title": ""
+      }
     },
-    
-    "order": ["banner-collection","affiliates-collection","main-product","featured-collection","template-footer"]
-    
+    "affiliates-collection": {
+      "type": "affiliates-collection",
+      "settings": {
+        "title": ""
+      }
+    },
+    "main-product": {
+      "type": "main-product",
+      "settings": {
+        "main_color": "#000000",
+        "text_color": "#000000",
+        "product": "",
+        "title": "Name product",
+        "subtitle": "Subtitle",
+        "price": 20,
+        "numberRatings": 20,
+        "buy_btn": "Download",
+        "buy_btn_txt_color": "#FFFFFF",
+        "numberStars": 5,
+        "outline_color": "#000000",
+        "rating5": 0,
+        "rating4": 0,
+        "rating3": 0,
+        "rating2": 0,
+        "rating1": 0
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Collection",
+        "subtitle": "Subtitle Featured Collection",
+        "featured_collection": "all",
+        "number_of_products_to_show": 4
+      }
+    },
+    "template-footer": {
+      "type": "template-footer",
+      "settings": {
+        "title": "Footer Title",
+        "menu": "main-menu",
+        "twitter": "Footer Twitter",
+        "facebook": "Footer Facebook",
+        "pinterest": "Footer Pinterest",
+        "instagram": "Footer Instagram",
+        "tiktok": "Footer Tiktok",
+        "tumblr": "Footer Tumblr",
+        "snapchat": "Footer Snapchat",
+        "youtube": "Footer Yutube",
+        "vimeo": "Footer Vimeo"
+      }
+    }
+  },
+  "order": [
+    "banner-collection",
+    "affiliates-collection",
+    "main-product",
+    "featured-collection",
+    "template-footer"
+  ]
 }
