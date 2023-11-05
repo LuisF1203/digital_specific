@@ -7,21 +7,21 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/art1.jpg",
-            "title": ""
+            "title": "Van Gohg"
           }
         },
         "e72b9ecf-23c3-413a-9280-c3b376f93784": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/art2.jpg",
-            "title": ""
+            "title": "rural"
           }
         },
         "622fc613-c50f-4f57-9b91-940d244232f0": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/art3.jpg",
-            "title": ""
+            "title": "popular"
           }
         }
       },
@@ -36,6 +36,73 @@
     },
     "affiliates-collection": {
       "type": "affiliates-collection",
+      "blocks": {
+        "187d566a-167b-444a-9c14-7464a7c6fc51": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/amazon.png"
+          }
+        },
+        "d9f69ed3-8acf-471f-b8c0-9769205100cf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tamu.png"
+          }
+        },
+        "18207dfe-a413-41cd-930d-e58b2a765654": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AliExpress.png"
+          }
+        },
+        "84870cb6-b09a-463d-be41-6142aa782ffe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/amazon.png"
+          }
+        },
+        "69d8e5e7-c362-4a57-934c-6264670e9149": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tamu.png"
+          }
+        },
+        "d301dc31-1322-40c8-87ef-78f3bc8c8ed7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AliExpress.png"
+          }
+        },
+        "6f418f69-0a7a-4c0e-83e1-f5996aaa6199": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/amazon.png"
+          }
+        },
+        "92c3caca-26dd-4525-a3ca-d43a1b3b9106": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tamu.png"
+          }
+        },
+        "1aa51d4d-d9ad-4f00-be85-cfd37b15f3e4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AliExpress.png"
+          }
+        }
+      },
+      "block_order": [
+        "187d566a-167b-444a-9c14-7464a7c6fc51",
+        "d9f69ed3-8acf-471f-b8c0-9769205100cf",
+        "18207dfe-a413-41cd-930d-e58b2a765654",
+        "84870cb6-b09a-463d-be41-6142aa782ffe",
+        "69d8e5e7-c362-4a57-934c-6264670e9149",
+        "d301dc31-1322-40c8-87ef-78f3bc8c8ed7",
+        "6f418f69-0a7a-4c0e-83e1-f5996aaa6199",
+        "92c3caca-26dd-4525-a3ca-d43a1b3b9106",
+        "1aa51d4d-d9ad-4f00-be85-cfd37b15f3e4"
+      ],
       "settings": {
         "title": ""
       }
